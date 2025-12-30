@@ -2,7 +2,7 @@
 
 ## AI Basics
 
-! [1.png](Screenshots%2F1.png)
+![1.png](Screenshots%2F1.png)
 
 **AI Applications** - Chat gpt, Gemini
 
